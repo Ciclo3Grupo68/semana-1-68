@@ -172,6 +172,30 @@ li a:hover {
     text-align: left;
 }
 
+.footer{
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    color:black;
+    list-style: none;
+    justify-content: space-evenly; 
+}
+.enlace{
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    color:green;
+    background-color: aliceblue;
+}
+.seccion-1,.seccion-2
+{
+    width: 50%;
+}
+
+.lista{
+    color:black;
+}
+
 .column{
     float: left;
     width: 50%;
@@ -186,4 +210,5 @@ li a:hover {
     width: 200px;
     margin-top: 20px;
 }
+
 
