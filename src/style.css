@@ -1,0 +1,79 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    width:1200px;
+}
+
+.header{
+    background-image: url(kanban2.jpg);
+    background-color:aqua;
+}
+
+.barra-superior{
+  display: flex;
+  align-items: center;
+  height: 100px;
+}
+
+.titulo-principal, .contenedor-menu{
+  width: 50%;
+  
+}
+
+.titulo-principal{
+  font-size:60px;
+}
+
+.contenedor-menu{
+  font-size:30px;
+  height:100px
+}
+ 
+.menu-principal{
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+}
+
+.menu-principal> a{
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  text-decoration: none;
+}
+
+.menu-principal> a:hover{
+  font-size: 20px;
+  text-decoration: underline;
+
+}
+
+
+li a {
+  display: block;
+  color: purple;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  text-decoration: underline;
+  background-color:aqua;
+}
+.banner{
+  display: baner;
+}
+.banner{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.banner__titulo{
+  position: absolute;
+  color:black;
+  font-size: 50px;
+
+}
+.banner__imagen{}
