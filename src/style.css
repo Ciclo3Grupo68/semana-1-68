@@ -1,3 +1,4 @@
+
 body {
     background-image: url("img/fondo.jpg");
     max-width: 1200px;
@@ -27,6 +28,47 @@ body {
 }
   
   .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+.servicios{
+    
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    
+    
+    
+}
+.parrafoscc2.{
+    
+    text-align: justify;
+    
+    
+    
+}
+
+
+.servicios__contenedor{
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+}
+
+
+.cardscc2 {
+    box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.4);
+    transition: 0.3s;
+    margin: 70px;
+    width: 33%;
+    text-align:center;
+    height: 380px;
+    border-radius: 5%; 
+    background-color: rgba(48, 125, 197, 0.6);
+    
+  }
+  
+  .cardscc2:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
   
@@ -67,3 +109,9 @@ body {
 .link{
     color: white;
 }
+
+    height:150px;
+    width: 200px;
+    margin-top: 20px;
+}
+
