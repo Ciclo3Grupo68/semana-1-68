@@ -18,3 +18,82 @@ El proyecto, deberá manejarse versionado en un repositorio remoto en github, en
   El elemento donde están los servicios debe de tener un `id=”team”`
 
 - Sección Footer o pie del sitio: el estudiante deberá crear el pie del sitio web en donde se incluye información de contacto, deberá estar dividido en dos partes, en una se tendrá la información del sitio web como el motivante del desarrollo y el enlace al repositorio de github, y en la otra los contacto de los miembros del equipo con sus nombres y roles. La sección debe de estar en un tag <footer></footer>
+
+## Proceso para replicar el proyecto
+
+
+    1. Acuerdos sobre dinámica de trabajo
+
+    • Roles del equipo
+
+
+
+    • División de tareas Sprint 1
+
+Estudiante 1 (Scrum Master) DIANA MARIA ORDOÑEZ ALMONACID
+Estudiante 2 (Product owner) CRISTIAN CAMILO CASTAÑEDA AGUDELO
+Estudiante 3 (Development Team) ANDRES ARTURO ANZOLA GOMEZ
+Estudiante 4 (Development Team) JEICK CASTRILLON RUIZ
+Estudiante 5 (Development Team) JULIAN ESTEBAN CARVAJAL RAMIREZ
+
+
+COMPROMISO
+RESPONSABLE
+FECHA
+REALIZAR SECCION 1
+Estudiante 2
+ 28/11/2020 
+ 
+REALIZAR SECCION 2
+Estudiante 3
+    28/11/2020
+    
+REALIZAR SECCION 3
+Estudiante 1
+28/11/2020
+
+REALIZAR SECCION 4 
+Estudiante 1
+28/11/2020 
+
+REALIZAR SECCION 5 
+ Estudiante 2 
+28/11/2020 
+
+	
+    2. Seguimiento a tareas
+Entrega de avances 5 de la tarde de cada sección para ayudar a compañeros y verificar inconvenientes
+
+
+    3. SECCIÓN 1
+    
+Se crearon dos etiquetas <div>, una para el titulo y otra para el menú que  esta con la etiqueta <nav>, los botones del menú 
+cuentan con un color de fondo cuando se le pasa el cursor por encima y cada botón lleva a una sección de la página.
+  
+Se agregó una imagen de Kanban de 1200px que cubre el ancho de la página.
+
+    3. SECCIÓN 2
+Se crearon 3 cards de servicios, donde se puso información sobre los lenguajes de programación que utilizamos para desarrollar 
+aplicaciones con el método Kanban, como Trello.
+
+    3. SECCIÓN 3
+Se dividió la sección en 2 filas y 2 columnas para presentar la sección de noticias, se buscaron las noticias de fuentes confiables
+y se agregó la imagen y una pequeña descipción de cada una y al final se agregó el link que lleva a la noticia.
+
+    3. SECCIÓN 4
+En esta sección se pidieron los datos a cada uno de los integrantes del grupo, se dividió el ancho de página en la cantidad de integrantes 
+y se puso la información de cada uno en una card,una foto o imagen, el nombre y algún dato como la institución educativa, edad, pasatiempo
+
+    3. SECCIÓN 5
+ Se creo la sección con el tag <footer> el cual está dividido con dos secciones con <div>, tiene la información sobre la metodología Kanban y 
+ el link al repositorio de github del grupo y en la otra sección tiene la información de cada uno de los integrantes del grupo con sus roles
+ definidos bajo la metodología Scrum.
+  
+    4. CONFLICTOS
+ Cuando realizamos la fusión de las ramas tuvimos varios conflictos, debido a que modificabamos el mismo archivo en las mismas líneas de código
+ y los resolvimos en la sección de solución de conflictos de gitHub que permitia ver los conflictos y editar el código antes de realizar el merge.
+
+    
+
+
+
