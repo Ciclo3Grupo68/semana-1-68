@@ -1,3 +1,6 @@
+# semana-1-68
+Repositorio Grupo 68 Reto Semana 1
+
 # Proyecto final Sprint I
 
 Desarrollar un sitio web que conste de 5 secciones, cada sección deberá ser realizada por un estudiante. Los diferentes elementos del sitio web contarán con estilos personalizados creados por los estudiantes y deberán estar condensados en una sola hoja de estilos.
@@ -92,8 +95,3 @@ y se puso la información de cada uno en una card,una foto o imagen, el nombre y
     4. CONFLICTOS
  Cuando realizamos la fusión de las ramas tuvimos varios conflictos, debido a que modificabamos el mismo archivo en las mismas líneas de código
  y los resolvimos en la sección de solución de conflictos de gitHub que permitia ver los conflictos y editar el código antes de realizar el merge.
-
-    
-
-
-
